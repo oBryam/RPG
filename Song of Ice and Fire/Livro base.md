@@ -22,7 +22,7 @@ O **Guerra dos Tronos RPG** permite que você e seus amigos assumam os papéis d
 
 As regras do jogo foram desenvolvidas para capturar a complexidade e a intensidade dos conflitos em Westeros. Este capítulo cobre os conceitos fundamentais, como testes de habilidade, combates e a resolução de conflitos.
 
-- [Ver regras básicas](Song of Ice and Fire/Livro Base.pdf#page=10)
+- [Ver regras básicas](Livro-Base.pdf#page=10)
 
 ## Criação de Personagem
 
